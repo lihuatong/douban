@@ -1,0 +1,17 @@
+{
+  "name": "douban-movie-list",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "李华通"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/lihuatong/douban",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
